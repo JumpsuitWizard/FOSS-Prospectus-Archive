@@ -14,7 +14,7 @@ Having all of this information together in one place can serve several purposes:
 ## Contributing To This Repository
 If you have or know where to find a prospectus, we invite your to submit a PR to add the file to this repo. Please review the [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to contribute to this repository.
 
-Check [Issues](issues) for a list of prospectuses we hope to find. 
+Check [Issues](https://github.com/DuaneOBrien/FOSS-Prospectus-Archive) for a list of prospectuses we hope to find. 
 
 
 ## Hacktoberfest Participation
