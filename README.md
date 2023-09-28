@@ -12,9 +12,10 @@ Having all of this information together in one place can serve several purposes:
  * Transparency;
 
 ## Contributing To This Repository
+
 If you have or know where to find a prospectus, we invite your to submit a PR to add the file to this repo. Please review the [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to contribute to this repository.
 
-Check [Issues](https://github.com/DuaneOBrien/FOSS-Prospectus-Archive) for a list of prospectuses we hope to find. 
+Check the [Prospectuses Wanted](PROSPECTUSES_WANTED.md) file for a list of things we're looking for. Check [Issues](https://github.com/DuaneOBrien/FOSS-Prospectus-Archive) for open issues for missing prospectuses.
 
 
 ## Hacktoberfest Participation
