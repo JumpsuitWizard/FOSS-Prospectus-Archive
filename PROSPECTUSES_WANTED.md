@@ -10,6 +10,7 @@ This is an incomplete list of the prospectuses we hope to collect. This list wil
 
 ## Events
 * [All Things Open](https://www.allthingsopen.org/)
+* [Open Source 101](https://opensource101.com/)
 * [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/)
 * [OSCON](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Convention)
 * [SCaLE](https://www.socallinuxexpo.org/)
